@@ -1,0 +1,129 @@
+div {
+    width: 400px;
+    border: 5px solid rgb(44, 70, 163);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: rgb(179, 187, 216);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 300px;
+    margin-bottom: 0px;
+    ;
+}
+
+div.first {
+    opacity: 0.9;
+    width: 400px;
+    border: 5px solid rgb(44, 70, 163);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: rgb(179, 187, 216);
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 300px;
+    margin-bottom: 0px;
+}
+
+div.second {
+    opacity: 0.9;
+    width: 400px;
+    border: 5px solid rgb(44, 70, 163);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: rgb(179, 187, 216);
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 300px;
+    margin-bottom: 0px;
+}
+
+div.third {
+    opacity: 0.9;
+    width: 900px;
+    border-bottom: 5px solid rgb(99, 105, 192);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: white;
+    margin-top: -890px;
+    margin-left: 550px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+div.fourth {
+    opacity: 0.9;
+    width: 900px;
+    border-bottom: 5px solid rgb(99, 105, 192);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 550px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+} 
+
+div.fifth {
+    opacity: 0.9;
+    width: 900px;
+    border-bottom: 5px solid rgb(99, 105, 192);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 550px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+} 
+
+a:link, a:visited {
+  background-color: rgb(14, 14, 59);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: rgb(14, 14, 59);
+}
+
+body {
+  color: black;
+  justify-content: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background: linear-gradient(27deg, #7bb7cf 50%, #f7f7f7  50%);
+  
+}
+
+h1 {
+  color: rgb(35, 26, 155);
+  text-align: center;
+}
+
+h2 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+  float: down;
+  
+}
